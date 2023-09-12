@@ -80,13 +80,6 @@ img {
 
 /* intro styles */
 
-.my-img{
-    width: 15rem;
-    margin: auto;
-    border-radius: 10rem;
-    background-color:thistle;
-}
-
 #intro {
     padding: 4rem 1rem 10rem 1rem;
     padding-bottom: 10rem;
